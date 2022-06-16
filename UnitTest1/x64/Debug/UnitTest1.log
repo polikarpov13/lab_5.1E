@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\політех\ооп\5\lab_5.1E\lab_5.1E\LongLong.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+E:\Політех\ооп\5\lab_5.1E\UnitTest1\UnitTest1.cpp(4,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+     Создается библиотека E:\Політех\ооп\5\lab_5.1E\x64\Debug\UnitTest1.lib и объект E:\Політех\ооп\5\lab_5.1E\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Політех\ооп\5\lab_5.1E\x64\Debug\UnitTest1.dll
